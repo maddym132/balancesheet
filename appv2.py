@@ -63,8 +63,6 @@ def generate_pandasai_response(csv_file):
 uploaded_file = st.file_uploader('Upload a CSV file', type=['csv'])
 question_list = [
     'what are the Cash and Cash Equivalents  in 2018 and 2020 FY',
-    'Plot the heatmap of all data?',
-    'compare 2018 and 2019 fy data',
     'what is total assets for all FY',
     'Other'
 ]
