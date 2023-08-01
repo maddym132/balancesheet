@@ -4,3 +4,4 @@ pandas
 pandasai
 streamlit
 tabulate
+pip install tabulate
