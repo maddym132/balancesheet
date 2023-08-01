@@ -3,3 +3,4 @@ langchain
 pandas
 pandasai
 streamlit
+tabulate
